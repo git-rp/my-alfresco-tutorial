@@ -1,0 +1,2 @@
+>	http://docs.alfresco.com/5.1/concepts/alfresco-sdk-rad.html
+>	http://docs.alfresco.com/5.1/tasks/alfresco-sdk-rad-intellij-hot-reloading.html
